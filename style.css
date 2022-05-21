@@ -73,8 +73,16 @@ button:hover {
 @media (max-width:720px) {
 
   .botoes {
-    grid-template-columns: repeat(2, 230px);
-    grid-template-rows: repeat(3, 120px);
+    grid-template-columns: repeat(2, 200px);
+    grid-template-rows: repeat(3, 110px);
+  }
+
+  button {
+    width: 150px;
+  }
+
+  #codigo {
+    font-size: 3em;
   }
 
 }

@@ -69,3 +69,12 @@ button:hover {
 #pontos {
   margin-top: -1em;
 }
+
+@media (max-width:600px) {
+
+  .botoes {
+    grid-template-columns: repeat(2, 230px);
+    grid-template-rows: repeat(3, 120px);
+  }
+
+}

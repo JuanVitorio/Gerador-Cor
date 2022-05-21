@@ -78,11 +78,11 @@ button:hover {
   }
 
   button {
-    width: 100px;
+    width: 60px;
   }
 
   #codigo {
-    font-size: 2.5em;
+    font-size: 1.5em;
   }
 
 }
